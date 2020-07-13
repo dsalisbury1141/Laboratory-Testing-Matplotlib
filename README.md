@@ -1,6 +1,7 @@
 # Matplotlib-Challenge
 
-This exercise was ectreemly challenging, (I know I say that every time) but it appears I need to relearn all the material each exercise I am taksed with.
+
+This exercise was extremely challenging, (I know I say that every time) but it appears I need to relearn all the material each exercise I am tasked with.
 
 Observations:
 
