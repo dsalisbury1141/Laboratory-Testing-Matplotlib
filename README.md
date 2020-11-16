@@ -1,6 +1,6 @@
 # Matplotlib
 
-## This dataset used shows a laboratory using mice to test for various cancers
+## This dataset used shows a laboratory using mice showing various drugs for cancer
 ![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Laboratory.jpg)
 
 ![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/BarPlot1.png)
