@@ -1,10 +1,12 @@
-# Matplotlib-Challenge
+# Matplotlib
 
 
-This exercise was extremely challenging, (I know I say that every time) but it appears I need to relearn all the material each exercise I am tasked with.
-
-Observations:
-
-1. I am learning that when I am about to give up I find the solutions or am offered help by the amazing tutors and BCS and TA's I big thank you!!
-2. I learned that I need a lot more practice with Scatter plots
-3. I realized that if I was tasked with this in a real world scenario that I would have used a lot more data than provided, I do not feel that the outliers are actuate based on enough data
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/BarPlot1.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/BarPlot2.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Laboratory.jpg)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Mouse%20Pie1.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Mouse%20Pie2.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Mouse%20Stats%20J119.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Scatter1.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Scatter2.png)
+![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Final%20Tumor%20Volume%20by%20Drugs.png)
