@@ -11,5 +11,5 @@
 <img align="left" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Mouse%20Stats%20J119.png" width="400">
 <img align="right" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Scatter1.png" width="400">
 <img align="left" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Scatter2.png" width="400">
+<img align="right" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Final%20Tumor%20Volume%20by%20Drugs.png" width="400">
 
-![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Final%20Tumor%20Volume%20by%20Drugs.png width="200")
