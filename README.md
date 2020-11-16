@@ -1,4 +1,4 @@
-# Matplotlib
+# Laboratory Testing Using Matplotlib
 
 ## This dataset used shows a laboratory using mice showing various drugs for cancer
 ![imageAlt](https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Laboratory.jpg)
