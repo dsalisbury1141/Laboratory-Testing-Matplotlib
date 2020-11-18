@@ -13,3 +13,7 @@
 <img align="left" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Scatter2.png" width="350">
 <img align="right" src="https://github.com/dsalisbury1141/Matplotlib-Challenge/blob/master/Plot_Images/Final%20Tumor%20Volume%20by%20Drugs.png" width="350">
 
+
+
+How to run my code:
+1. Download my repository and run using Jupyter
